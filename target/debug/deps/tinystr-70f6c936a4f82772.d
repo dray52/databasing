@@ -1,0 +1,12 @@
+/home/draydon/DraydonL/hello_world/databasing/target/debug/deps/libtinystr-70f6c936a4f82772.rmeta: /home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinystr-0.8.1/src/lib.rs /home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinystr-0.8.1/src/macros.rs /home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinystr-0.8.1/src/ascii.rs /home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinystr-0.8.1/src/asciibyte.rs /home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinystr-0.8.1/src/error.rs /home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinystr-0.8.1/src/int_ops.rs /home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinystr-0.8.1/src/unvalidated.rs /home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinystr-0.8.1/src/ule.rs
+
+/home/draydon/DraydonL/hello_world/databasing/target/debug/deps/tinystr-70f6c936a4f82772.d: /home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinystr-0.8.1/src/lib.rs /home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinystr-0.8.1/src/macros.rs /home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinystr-0.8.1/src/ascii.rs /home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinystr-0.8.1/src/asciibyte.rs /home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinystr-0.8.1/src/error.rs /home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinystr-0.8.1/src/int_ops.rs /home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinystr-0.8.1/src/unvalidated.rs /home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinystr-0.8.1/src/ule.rs
+
+/home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinystr-0.8.1/src/lib.rs:
+/home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinystr-0.8.1/src/macros.rs:
+/home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinystr-0.8.1/src/ascii.rs:
+/home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinystr-0.8.1/src/asciibyte.rs:
+/home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinystr-0.8.1/src/error.rs:
+/home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinystr-0.8.1/src/int_ops.rs:
+/home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinystr-0.8.1/src/unvalidated.rs:
+/home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinystr-0.8.1/src/ule.rs:

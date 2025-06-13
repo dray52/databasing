@@ -1,0 +1,11 @@
+/home/draydon/DraydonL/hello_world/databasing/target/debug/deps/liblitemap-122feb35bceb4953.rmeta: /home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.8.0/src/lib.rs /home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.8.0/src/map.rs /home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.8.0/src/store/mod.rs /home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.8.0/src/store/slice_impl.rs /home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.8.0/src/store/vec_impl.rs
+
+/home/draydon/DraydonL/hello_world/databasing/target/debug/deps/liblitemap-122feb35bceb4953.rlib: /home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.8.0/src/lib.rs /home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.8.0/src/map.rs /home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.8.0/src/store/mod.rs /home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.8.0/src/store/slice_impl.rs /home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.8.0/src/store/vec_impl.rs
+
+/home/draydon/DraydonL/hello_world/databasing/target/debug/deps/litemap-122feb35bceb4953.d: /home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.8.0/src/lib.rs /home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.8.0/src/map.rs /home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.8.0/src/store/mod.rs /home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.8.0/src/store/slice_impl.rs /home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.8.0/src/store/vec_impl.rs
+
+/home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.8.0/src/lib.rs:
+/home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.8.0/src/map.rs:
+/home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.8.0/src/store/mod.rs:
+/home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.8.0/src/store/slice_impl.rs:
+/home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.8.0/src/store/vec_impl.rs:

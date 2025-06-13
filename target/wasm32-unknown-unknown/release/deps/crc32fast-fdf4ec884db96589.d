@@ -1,0 +1,11 @@
+/home/draydon/DraydonL/databasing/target/wasm32-unknown-unknown/release/deps/libcrc32fast-fdf4ec884db96589.rmeta: /home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.2/src/lib.rs /home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.2/src/baseline.rs /home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.2/src/combine.rs /home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.2/src/specialized/mod.rs /home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.2/src/table.rs
+
+/home/draydon/DraydonL/databasing/target/wasm32-unknown-unknown/release/deps/libcrc32fast-fdf4ec884db96589.rlib: /home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.2/src/lib.rs /home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.2/src/baseline.rs /home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.2/src/combine.rs /home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.2/src/specialized/mod.rs /home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.2/src/table.rs
+
+/home/draydon/DraydonL/databasing/target/wasm32-unknown-unknown/release/deps/crc32fast-fdf4ec884db96589.d: /home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.2/src/lib.rs /home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.2/src/baseline.rs /home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.2/src/combine.rs /home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.2/src/specialized/mod.rs /home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.2/src/table.rs
+
+/home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.2/src/lib.rs:
+/home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.2/src/baseline.rs:
+/home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.2/src/combine.rs:
+/home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.2/src/specialized/mod.rs:
+/home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.2/src/table.rs:

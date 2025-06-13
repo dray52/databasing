@@ -1,0 +1,11 @@
+/home/draydon/DraydonL/databasing/target/wasm32-unknown-unknown/release/deps/libfdeflate-f4ff9dd0ec08c3e3.rmeta: /home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fdeflate-0.3.7/src/lib.rs /home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fdeflate-0.3.7/src/compress.rs /home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fdeflate-0.3.7/src/decompress.rs /home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fdeflate-0.3.7/src/huffman.rs /home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fdeflate-0.3.7/src/tables.rs
+
+/home/draydon/DraydonL/databasing/target/wasm32-unknown-unknown/release/deps/libfdeflate-f4ff9dd0ec08c3e3.rlib: /home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fdeflate-0.3.7/src/lib.rs /home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fdeflate-0.3.7/src/compress.rs /home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fdeflate-0.3.7/src/decompress.rs /home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fdeflate-0.3.7/src/huffman.rs /home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fdeflate-0.3.7/src/tables.rs
+
+/home/draydon/DraydonL/databasing/target/wasm32-unknown-unknown/release/deps/fdeflate-f4ff9dd0ec08c3e3.d: /home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fdeflate-0.3.7/src/lib.rs /home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fdeflate-0.3.7/src/compress.rs /home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fdeflate-0.3.7/src/decompress.rs /home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fdeflate-0.3.7/src/huffman.rs /home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fdeflate-0.3.7/src/tables.rs
+
+/home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fdeflate-0.3.7/src/lib.rs:
+/home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fdeflate-0.3.7/src/compress.rs:
+/home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fdeflate-0.3.7/src/decompress.rs:
+/home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fdeflate-0.3.7/src/huffman.rs:
+/home/draydon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fdeflate-0.3.7/src/tables.rs:
