@@ -1,5 +1,5 @@
 /*
-By: <Your Name Here>
+By: <Draydon Levesque>
 Date: 2025-06-13
 Program Details: <Program Description Here>
 */
@@ -53,11 +53,15 @@ async fn main() {
 
         draw_rectangle(100.0, 100.0, 500.0, 400.0, GREEN);
         if btn_text.click() {
+            let records: Vec<DatabaseTable> = client.fetch_table("draysTable").await.unwrap();
             new_record.username = txtuser.get_text();
             new_record.password = txtpassword.get_text();
+            if records.contains(new_record.username) && records.contains(new_record.password){
+                pass
+            } else{
             new_record.level = 1;
             let _inserted: Vec<DatabaseTable> = client.insert_record("draysTable", &new_record).await.unwrap();
-            lbl_out.set_text(format!("level: {}", new_record.level));
+            lbl_out.set_text(format!("level: {}", new_record.level));}
         };
 
         if btn_text2.click() {
