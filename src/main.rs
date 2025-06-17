@@ -34,7 +34,7 @@ async fn main() {
     let level = TextButton::new(300.0, 700.0, 200.0, 60.0, "Level Up", BLUE, GOLD, 30);
     let mut txtuser = TextInput::new(250.0, 150.0, 300.0, 40.0, 25.0);
     let mut txtpassword = TextInput::new(250.0, 250.0, 300.0, 40.0, 25.0);
-    let mut lbl_out = Label::new("Hello\nWorld", 50.0, 100.0, 30);
+    let mut lbl_out = Label::new("Game", 50.0, 100.0, 30);
     txtuser.set_prompt("Enter Username");
     txtuser.set_prompt_color(DARKGRAY);
     txtpassword.set_prompt("Enter Password");
